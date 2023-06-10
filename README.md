@@ -96,8 +96,8 @@ npm install -g yarn
 1.1: Fork the repository (using the `Fork` button at the top) and then clone the repository
 
 ```sh
-# Replace {YOUR_USERNAME} with your actual username
-git clone https://github.com/{YOUR_USERNAME}/neumorphism.git
+# Replace {HERNAN VALENCIA} with your actual username
+git clone https://github.com/{HERNAN VALENCIA}/neumorphism.git
 ```
 
 or
